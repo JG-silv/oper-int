@@ -15,6 +15,7 @@ This project is ideal for beginners learning basic arithmetic operations, user i
 - Console-based, easy to understand
 
 ## Usage
+-> Clone the repository
 1. Open the project in a **Java IDE** (Eclipse, IntelliJ, VS Code with Java).
 2. Compile and run the `Somarsub01.java` file.
 3. Enter two integer numbers when prompted.
