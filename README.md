@@ -32,3 +32,9 @@ System.out.println("Multiplication: " + (x * y));
 System.out.println("Division: " + ((double)x / y));
 System.out.println("Modulus: " + (x % y));
 sc.close();
+
+
+## Author
+```bash
+https://github.com/JG-silv
+
